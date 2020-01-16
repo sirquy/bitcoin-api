@@ -1,5 +1,5 @@
 # bitcoin-api
 
 ### installing
-    yarn
-    yarn server
+    $ yarn
+    $ yarn server
